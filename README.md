@@ -60,7 +60,7 @@ Authorization: Bearer <JWT_TOKEN>
 ### 1 Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/distributed-order-processing-system.git
+git clone https://github.com/kshitijrat/distributed-order-processing-system.git
 cd distributed-order-processing-system
 ```
 
